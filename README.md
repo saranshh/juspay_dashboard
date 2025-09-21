@@ -11,7 +11,6 @@ _A pixel-perfect, responsive admin dashboard built with modern React technologie
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-View_Here-orange?style=for-the-badge)](https://your-demo-link.com)
 [![Tests](https://img.shields.io/badge/✅_Tests-39_passing-green?style=for-the-badge)](https://github.com/saranshh/juspay_ui)
-[![Coverage](https://img.shields.io/badge/📊_Coverage-100%_Components-blue?style=for-the-badge)](https://github.com/saranshh/juspay_ui)
 
 </div>
 
