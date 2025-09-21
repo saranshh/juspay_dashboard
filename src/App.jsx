@@ -44,6 +44,8 @@ function App() {
             <Route path="/corporate" element={<UserProfile />} />
             <Route path="/blog" element={<UserProfile />} />
             <Route path="/social" element={<UserProfile />} />
+            {/* Catch-all route for any unmatched paths */}
+            <Route path="*" element={<Navigate to="/dashboard" replace />} />
           </Route>
         </Routes>
       </BrowserRouter>
