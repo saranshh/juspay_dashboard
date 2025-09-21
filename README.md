@@ -331,24 +331,4 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-## 👥 Team
-
-<div align="center">
-
-**Built with ❤️ by the Juspay Frontend Team**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?style=for-the-badge&logo=github)](https://github.com/saranshh)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-
-[![GitHub stars](https://img.shields.io/github/stars/saranshh/juspay_ui?style=social)](https://github.com/saranshh/juspay_ui)
-
-</div>
