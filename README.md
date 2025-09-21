@@ -9,7 +9,7 @@
 
 _A pixel-perfect, responsive admin dashboard built with modern React technologies_
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-View_Here-orange?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-View_Here-orange?style=for-the-badge)]([https://your-demo-link.com](https://juspay-dashboard-ui.vercel.app/))
 [![Tests](https://img.shields.io/badge/✅_Tests-39_passing-green?style=for-the-badge)](https://github.com/saranshh/juspay_ui)
 
 </div>
